@@ -54,9 +54,9 @@ Below is a comparative breakdown of top commercial ultra-portable laptop platfor
 
 ## ⚡ Open-Source GitHub Repositories & Hardware Projects
 
-Below is a curated list of open-source ultra-portable laptop hardware, free firmware, and maker cyberdeck projects, sorted by **GitHub Star Count in descending order**:
+Below is a curated list of open-source ultra-portable laptop hardware, free firmware, and maker cyberdeck projects, sorted by **GitHub Stars_Count in descending order**:
 
-| 🚀 Project / Repository | 🌟 GitHub Stars (Stargazers Link) | 🔓 Open-Source Scope | 📝 Summary & Key Features |
+| 🚀 Project / Repository | 🌟 GitHub_Stars (Stargazers Link) | 🔓 Open-Source Scope | 📝 Summary & Key Features |
 | :--- | :--- | :--- | :--- |
 | **[Libreboot](https://libreboot.org/)** 🔓 | [![Stars](https://img.shields.io/github/stars/libreboot/libreboot?style=social&color=white)](https://github.com/libreboot/libreboot/stargazers) | Open Boot Firmware | Free and open-source boot firmware based on Coreboot, providing binary-blob-free initialization for compatible laptops. |
 | **[Framework Mainboard Shell](https://github.com/FrameworkComputer/Mainboard)** 🛠️ | [![Stars](https://img.shields.io/github/stars/FrameworkComputer/Mainboard?style=social&color=white)](https://github.com/FrameworkComputer/Mainboard/stargazers) | Modular Hardware & CAD | Official CAD files, 3D printable chassis, and electrical schematics for re-purposing Framework modular laptop mainboards. |
